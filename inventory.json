@@ -17,7 +17,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:18"
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39007",
@@ -37,7 +37,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:18"
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39007",
@@ -57,7 +57,27 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:18"
+    "created_at": "2021-07-17 11:26:42"
+  },
+  {
+    "dealer": "39007",
+    "vin": "5TFAZ5CN5MX112868",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Army Green",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38627.0",
+    "availability_date": "07/19/2021",
+    "total_packages": 13,
+    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39007",
@@ -77,7 +97,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:18"
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39028",
@@ -97,27 +117,27 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:18"
+    "created_at": "2021-07-17 11:26:42"
   },
   {
-    "dealer": "39028",
-    "vin": "3TMCZ5AN6MM432489",
+    "dealer": "39032",
+    "vin": "3TMAZ5CN4MM155880",
     "year": "2021",
     "vehicle": "tacoma",
-    "model": "trdsport",
+    "model": "SR5",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
+    "drivetrain": "2WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "41870.0",
+    "color": "Voodoo Blue",
+    "interior": "SR5 Fabric In Cement Gray",
+    "base_msrp": "32480",
+    "total_msrp": "35102.0",
     "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:18"
+    "total_packages": 5,
+    "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39032",
@@ -137,11 +157,11 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:19"
+    "created_at": "2021-07-17 11:26:42"
   },
   {
     "dealer": "39040",
-    "vin": "3TYGZ5AN9MT040953",
+    "vin": "3TMHZ5BN7MM115728",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "limited",
@@ -149,15 +169,15 @@
     "transmission": "6-Speed Automatic Transmission",
     "drivetrain": "4WD",
     "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
+    "bed": "6-ft. Bed",
+    "color": "Magnetic Gray Metallic",
     "interior": "Limited Leather Trim In Black",
-    "base_msrp": "42230",
-    "total_msrp": "46457.0",
+    "base_msrp": "42730",
+    "total_msrp": "44633.0",
     "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:19"
+    "total_packages": 4,
+    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:43"
   },
   {
     "dealer": "39049",
@@ -177,7 +197,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:20"
+    "created_at": "2021-07-17 11:26:43"
   },
   {
     "dealer": "39049",
@@ -197,7 +217,27 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:20"
+    "created_at": "2021-07-17 11:26:43"
+  },
+  {
+    "dealer": "39051",
+    "vin": "3TYBZ5DN9MT000684",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "35065",
+    "total_msrp": "37959.0",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39052",
@@ -217,27 +257,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SX Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:21"
-  },
-  {
-    "dealer": "39052",
-    "vin": "5TFAZ5CN1MX111507",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "36212.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:21"
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39052",
@@ -257,7 +277,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:21"
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39052",
@@ -277,27 +297,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:21"
-  },
-  {
-    "dealer": "39052",
-    "vin": "5TFAZ5CN4MX112442",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37110.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:21"
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39052",
@@ -317,27 +317,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Trail with Tread Running Board Package [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:21"
-  },
-  {
-    "dealer": "39052",
-    "vin": "3TMCZ5AN7MM432162",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "40676.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:21"
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39052",
@@ -357,27 +337,7 @@
     "availability_date": "Now",
     "total_packages": 4,
     "packages": "Premium Paint Charge, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:21"
-  },
-  {
-    "dealer": "39055",
-    "vin": "5TFAZ5CN2MX113122",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37209.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:44"
   },
   {
     "dealer": "39055",
@@ -397,11 +357,11 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39055",
-    "vin": "5TFAZ5CN1MX112432",
+    "vin": "5TFAZ5CN2MX113122",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdsport",
@@ -410,14 +370,14 @@
     "drivetrain": "2WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
+    "color": "Barcelona Red Metallic",
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "34565",
     "total_msrp": "37209.0",
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39055",
@@ -437,7 +397,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39055",
@@ -457,7 +417,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39056",
@@ -477,7 +437,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "XP Trail with Predator Board Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Black Alloy Wheel",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39056",
@@ -497,7 +457,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "XP Predator [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39056",
@@ -517,7 +477,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Predator Pro Step Bar [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39056",
@@ -537,7 +497,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Predator Pro Step Bar [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:22"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39058",
@@ -557,47 +517,7 @@
     "availability_date": "Now",
     "total_packages": 14,
     "packages": "XP Trail with W Drop Step Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:22"
-  },
-  {
-    "dealer": "39059",
-    "vin": "3TYAX5GN6MT025216",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "2.7L 4-Cyl. Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "29080",
-    "total_msrp": "31882.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:23"
-  },
-  {
-    "dealer": "39059",
-    "vin": "3TYBZ5DN6MT000450",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "SR5 Fabric in Black with Red Accent Stitching",
-    "base_msrp": "32980",
-    "total_msrp": "36481.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:45"
   },
   {
     "dealer": "39059",
@@ -617,7 +537,27 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
+  },
+  {
+    "dealer": "39059",
+    "vin": "3TYBZ5DN6MT000450",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "SR5 Fabric in Black with Red Accent Stitching",
+    "base_msrp": "32980",
+    "total_msrp": "36481.0",
+    "availability_date": "Now",
+    "total_packages": 8,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
@@ -637,7 +577,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
@@ -657,47 +597,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
-  },
-  {
-    "dealer": "39059",
-    "vin": "3TYBZ5DN6MT000576",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Army Green",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "35065",
-    "total_msrp": "38536.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
-  },
-  {
-    "dealer": "39059",
-    "vin": "3TYBZ5DN3MT000602",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "35065",
-    "total_msrp": "38536.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
@@ -717,27 +617,47 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
-    "vin": "5TFCZ5AN8MX277213",
+    "vin": "3TYBZ5DN3MT000602",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdsport",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
+    "drivetrain": "2WD",
     "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
+    "bed": "6-ft. Bed",
+    "color": "Magnetic Gray Metallic",
     "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "41001.0",
+    "base_msrp": "35065",
+    "total_msrp": "38536.0",
     "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:46"
+  },
+  {
+    "dealer": "39059",
+    "vin": "3TYBZ5DN6MT000576",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Army Green",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "35065",
+    "total_msrp": "38536.0",
+    "availability_date": "Now",
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
@@ -757,27 +677,27 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39059",
-    "vin": "3TYEZ5CN9MT009982",
+    "vin": "5TFCZ5AN8MX277213",
     "year": "2021",
     "vehicle": "tacoma",
-    "model": "limited",
+    "model": "trdsport",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
+    "drivetrain": "4WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "Limited Leather Trim In Black",
-    "base_msrp": "39155",
-    "total_msrp": "42626.0",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "41001.0",
     "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:23"
+    "total_packages": 12,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39060",
@@ -797,7 +717,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39060",
@@ -817,7 +737,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39061",
@@ -837,7 +757,27 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "6-Gallons of Gas [set_global_lio_disclaimer], SR5 Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
+  },
+  {
+    "dealer": "39061",
+    "vin": "5TFAZ5CN6MX112779",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38657.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 14,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:46"
   },
   {
     "dealer": "39061",
@@ -857,7 +797,47 @@
     "availability_date": "Now",
     "total_packages": 16,
     "packages": "16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:23"
+    "created_at": "2021-07-17 11:26:46"
+  },
+  {
+    "dealer": "39061",
+    "vin": "3TMGZ5AN1MM432496",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "limited",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "Limited Leather Trim In Black",
+    "base_msrp": "42230",
+    "total_msrp": "45674.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 9,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:46"
+  },
+  {
+    "dealer": "39064",
+    "vin": "5TFAZ5CN2MX110835",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38204.0",
+    "availability_date": "Now",
+    "total_packages": 12,
+    "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10094",
@@ -877,7 +857,27 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:24"
+    "created_at": "2021-07-17 11:26:47"
+  },
+  {
+    "dealer": "10094",
+    "vin": "3TYBZ5DNXMT000578",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Cement",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "35065",
+    "total_msrp": "41913.0",
+    "availability_date": "Now",
+    "total_packages": 12,
+    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10094",
@@ -897,7 +897,7 @@
     "availability_date": "Now",
     "total_packages": 14,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:24"
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10094",
@@ -917,7 +917,47 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Black Alloy Wheel",
-    "created_at": "2021-07-16 11:27:24"
+    "created_at": "2021-07-17 11:26:47"
+  },
+  {
+    "dealer": "10094",
+    "vin": "3TMCZ5AN3MM431851",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Midnight Black Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "46136.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 15,
+    "packages": "XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus",
+    "created_at": "2021-07-17 11:26:47"
+  },
+  {
+    "dealer": "10094",
+    "vin": "3TMDZ5BN5MM115659",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "TRD Sport Leather Trim In Black",
+    "base_msrp": "38140",
+    "total_msrp": "48767.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 13,
+    "packages": "TRD Premium Sport Package (Double Cab A/T), 17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10094",
@@ -937,27 +977,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], BakFlip Hard Tonneau Cover [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:24"
-  },
-  {
-    "dealer": "10096",
-    "vin": "5TFAZ5CN0MX111658",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Army Green",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "40575.0",
-    "availability_date": "Now",
-    "total_packages": 14,
-    "packages": "XP Trail with W Drop Step Package [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:25"
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10096",
@@ -977,27 +997,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:25"
-  },
-  {
-    "dealer": "10096",
-    "vin": "3TYDZ5BNXMT003783",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Army Green",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "38140",
-    "total_msrp": "42887.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:25"
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10096",
@@ -1017,7 +1017,27 @@
     "availability_date": "07/19/2021",
     "total_packages": 14,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:25"
+    "created_at": "2021-07-17 11:26:47"
+  },
+  {
+    "dealer": "10096",
+    "vin": "3TMDZ5BN8MM115669",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Sport Leather Trim In Black",
+    "base_msrp": "38140",
+    "total_msrp": "50050.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 14,
+    "packages": "TRD Premium Sport Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:47"
   },
   {
     "dealer": "10098",
@@ -1037,47 +1057,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:25"
-  },
-  {
-    "dealer": "10099",
-    "vin": "3TYEZ5CN5MT009977",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "limited",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "Limited Leather Trim In Hickory",
-    "base_msrp": "39155",
-    "total_msrp": "41557.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:25"
-  },
-  {
-    "dealer": "10104",
-    "vin": "3TYAX5GN9MT024643",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "2.7L 4-Cyl. Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Super White",
-    "interior": "SR Fabric In Cement Gray",
-    "base_msrp": "27230",
-    "total_msrp": "29862.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], SR Convenience Package, Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1094,10 +1074,30 @@
     "interior": "Black Fabric",
     "base_msrp": "32480",
     "total_msrp": "38614.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "07/18/2021",
     "total_packages": 9,
     "packages": "Trail Special Edition Package, Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Color Keyed Rear Bumper",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
+  },
+  {
+    "dealer": "10104",
+    "vin": "5TFAZ5CN2MX112682",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "39432.0",
+    "availability_date": "07/18/2021",
+    "total_packages": 12,
+    "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1117,7 +1117,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1137,7 +1137,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1157,7 +1157,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1177,7 +1177,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1197,7 +1197,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1217,7 +1217,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10104",
@@ -1234,30 +1234,10 @@
     "interior": "SR5 Fabric In Cement Gray",
     "base_msrp": "35555",
     "total_msrp": "42074.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "07/18/2021",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:26"
-  },
-  {
-    "dealer": "10104",
-    "vin": "5TFCZ5AN9MX278838",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "35555",
-    "total_msrp": "42503.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:26"
+    "created_at": "2021-07-17 11:26:48"
   },
   {
     "dealer": "10108",
@@ -1277,7 +1257,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:49"
   },
   {
     "dealer": "10108",
@@ -1297,7 +1277,27 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:49"
+  },
+  {
+    "dealer": "10108",
+    "vin": "5TFCZ5ANXMX278489",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Army Green",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "41657.0",
+    "availability_date": "07/19/2021",
+    "total_packages": 15,
+    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Bed Step [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:49"
   },
   {
     "dealer": "10108",
@@ -1317,7 +1317,27 @@
     "availability_date": "Now",
     "total_packages": 14,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Bed Step [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:49"
+  },
+  {
+    "dealer": "10108",
+    "vin": "3TMCZ5AN0MM432116",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Voodoo Blue",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "44646.0",
+    "availability_date": "07/19/2021",
+    "total_packages": 16,
+    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Bed Step [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:49"
   },
   {
     "dealer": "10108",
@@ -1337,7 +1357,7 @@
     "availability_date": "Now",
     "total_packages": 16,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, Bed Step [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:49"
   },
   {
     "dealer": "10114",
@@ -1357,7 +1377,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], SR5 Appearance Package (4-Cyl.), Center Console Safe [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:50"
   },
   {
     "dealer": "10114",
@@ -1374,10 +1394,10 @@
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "34565",
     "total_msrp": "39796.0",
-    "availability_date": "07/19/2021",
+    "availability_date": "Now",
     "total_packages": 13,
     "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:50"
   },
   {
     "dealer": "10114",
@@ -1397,7 +1417,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:27"
+    "created_at": "2021-07-17 11:26:50"
   },
   {
     "dealer": "10115",
@@ -1417,7 +1437,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "SX Package, All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:28"
+    "created_at": "2021-07-17 11:26:50"
   },
   {
     "dealer": "10115",
@@ -1437,27 +1457,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:28"
-  },
-  {
-    "dealer": "10117",
-    "vin": "5TFAZ5CN1MX113158",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "40410.0",
-    "availability_date": "Now",
-    "total_packages": 14,
-    "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:28"
+    "created_at": "2021-07-17 11:26:50"
   },
   {
     "dealer": "10118",
@@ -1477,7 +1477,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], SR5 Appearance Package (4-Cyl.), All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10118",
@@ -1497,7 +1497,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10118",
@@ -1517,7 +1517,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10118",
@@ -1534,10 +1534,10 @@
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "37530",
     "total_msrp": "43027.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "07/19/2021",
     "total_packages": 12,
     "packages": "XP Trail with W Drop Step Package [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1557,7 +1557,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Appearance Package (4-Cyl.), Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1577,27 +1577,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
-  },
-  {
-    "dealer": "10121",
-    "vin": "5TFAZ5CN2MX112097",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37408.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1617,7 +1597,27 @@
     "availability_date": "07/19/2021",
     "total_packages": 11,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
+  },
+  {
+    "dealer": "10121",
+    "vin": "5TFAZ5CN2MX112097",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "37408.0",
+    "availability_date": "Now",
+    "total_packages": 11,
+    "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1637,7 +1637,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1657,47 +1657,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:29"
-  },
-  {
-    "dealer": "10121",
-    "vin": "3TYCZ5AN9MT042846",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Army Green",
-    "interior": "Black Fabric",
-    "base_msrp": "35555",
-    "total_msrp": "41355.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "Trail Special Edition Package, SR5 Dynamic Navigation Package, Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
-  },
-  {
-    "dealer": "10121",
-    "vin": "3TYDZ5BN1MT003820",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Super White",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "38140",
-    "total_msrp": "41832.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1714,10 +1674,10 @@
     "interior": "Limited Leather Trim In Black",
     "base_msrp": "39155",
     "total_msrp": "42307.0",
-    "availability_date": "07/17/2021",
+    "availability_date": "Now",
     "total_packages": 9,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10121",
@@ -1737,7 +1697,27 @@
     "availability_date": "Now",
     "total_packages": 14,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], BakFlip Hard Tonneau Cover [set_global_lio_disclaimer], Technology Package, LED Headlights and Fog Lights, Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:29"
+    "created_at": "2021-07-17 11:26:51"
+  },
+  {
+    "dealer": "10121",
+    "vin": "3TMCZ5AN5MM431799",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Sport Leather Trim In Black",
+    "base_msrp": "37530",
+    "total_msrp": "50180.0",
+    "availability_date": "07/19/2021",
+    "total_packages": 14,
+    "packages": "TRD Premium Sport Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], BakFlip Hard Tonneau Cover [set_global_lio_disclaimer], Technology Package, LED Headlights and Fog Lights, LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:51"
   },
   {
     "dealer": "10124",
@@ -1757,7 +1737,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:30"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10126",
@@ -1774,10 +1754,10 @@
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "34565",
     "total_msrp": "41044.0",
-    "availability_date": "07/21/2021",
+    "availability_date": "07/19/2021",
     "total_packages": 11,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:30"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10127",
@@ -1797,27 +1777,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:30"
-  },
-  {
-    "dealer": "10127",
-    "vin": "3TMCZ5AN5MM432323",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "42977.0",
-    "availability_date": "Now",
-    "total_packages": 13,
-    "packages": "16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:30"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10127",
@@ -1837,11 +1797,11 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:30"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10129",
-    "vin": "5TFAZ5CN7MX112385",
+    "vin": "5TFAZ5CN0MX112129",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdsport",
@@ -1850,14 +1810,14 @@
     "drivetrain": "2WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
+    "color": "Cement",
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "34565",
-    "total_msrp": "37885.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:31"
+    "total_msrp": "37166.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 9,
+    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10129",
@@ -1877,7 +1837,27 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:31"
+    "created_at": "2021-07-17 11:26:52"
+  },
+  {
+    "dealer": "10129",
+    "vin": "5TFAZ5CN7MX112385",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "37885.0",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10129",
@@ -1897,7 +1877,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "XP Predator [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:31"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10129",
@@ -1917,31 +1897,11 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:31"
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10129",
-    "vin": "5TFCZ5AN8MX277115",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "42137.0",
-    "availability_date": "Now",
-    "total_packages": 14,
-    "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:31"
-  },
-  {
-    "dealer": "10129",
-    "vin": "5TFCZ5ANXMX275754",
+    "vin": "3TYDZ5BN7MT003837",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdoffroad",
@@ -1949,15 +1909,15 @@
     "transmission": "6-Speed Automatic Transmission",
     "drivetrain": "4WD",
     "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Off-Road Leather Trim In Black",
-    "base_msrp": "37530",
-    "total_msrp": "45950.0",
+    "bed": "6-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "38140",
+    "total_msrp": "41639.0",
     "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:31"
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:52"
   },
   {
     "dealer": "10130",
@@ -1977,67 +1937,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:31"
-  },
-  {
-    "dealer": "10131",
-    "vin": "5TFAZ5CN9MX112419",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Super White",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "38583.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
-  },
-  {
-    "dealer": "10131",
-    "vin": "5TFAZ5CN5MX112269",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "38583.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
-  },
-  {
-    "dealer": "10131",
-    "vin": "5TFAZ5CN6MX112667",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "38583.0",
-    "availability_date": "07/19/2021",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
@@ -2057,27 +1957,87 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
-    "vin": "5TFDZ5BN8MX064622",
+    "vin": "5TFAZ5CN9MX112419",
     "year": "2021",
     "vehicle": "tacoma",
-    "model": "SR5",
+    "model": "trdsport",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
+    "drivetrain": "2WD",
     "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "36055",
-    "total_msrp": "39874.0",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38583.0",
     "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:32"
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:53"
+  },
+  {
+    "dealer": "10131",
+    "vin": "5TFAZ5CN5MX112269",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38583.0",
+    "availability_date": "Now",
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:53"
+  },
+  {
+    "dealer": "10131",
+    "vin": "5TFAZ5CN6MX112667",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Cement",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38583.0",
+    "availability_date": "Now",
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:53"
+  },
+  {
+    "dealer": "10131",
+    "vin": "5TFAZ5CN2MX112830",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Midnight Black Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "38583.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 11,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
@@ -2097,7 +2057,27 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
+  },
+  {
+    "dealer": "10131",
+    "vin": "5TFDZ5BN8MX064622",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "SR5 Fabric In Cement Gray",
+    "base_msrp": "36055",
+    "total_msrp": "39874.0",
+    "availability_date": "Now",
+    "total_packages": 7,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
@@ -2117,7 +2097,27 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
+  },
+  {
+    "dealer": "10131",
+    "vin": "5TFCZ5AN4MX278634",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Cement",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "41548.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 12,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
@@ -2137,7 +2137,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "TRD Premium Sport Package (Double Cab A/T), Technology Package, LED Headlights and Fog Lights, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10131",
@@ -2157,27 +2157,7 @@
     "availability_date": "07/19/2021",
     "total_packages": 10,
     "packages": "XP Trail with W Drop Step Package [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:32"
-  },
-  {
-    "dealer": "10131",
-    "vin": "3TMCZ5AN4MM423421",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Off-Road Leather Trim In Black",
-    "base_msrp": "37530",
-    "total_msrp": "46648.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:32"
+    "created_at": "2021-07-17 11:26:53"
   },
   {
     "dealer": "10133",
@@ -2197,27 +2177,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:33"
-  },
-  {
-    "dealer": "10133",
-    "vin": "5TFCZ5AN0MX277819",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Army Green",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "42296.5",
-    "availability_date": "Now",
-    "total_packages": 15,
-    "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:33"
+    "created_at": "2021-07-17 11:26:54"
   },
   {
     "dealer": "10133",
@@ -2237,7 +2197,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Premium Sport Package (Double Cab A/T), Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, Premium Paint Charge, Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:33"
+    "created_at": "2021-07-17 11:26:54"
   },
   {
     "dealer": "10133",
@@ -2257,51 +2217,31 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD PRO Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:33"
+    "created_at": "2021-07-17 11:26:54"
   },
   {
     "dealer": "10134",
-    "vin": "3TYCZ5AN0MT041780",
+    "vin": "5TFAZ5CN9MX112887",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdsport",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
+    "drivetrain": "2WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
     "color": "Super White",
     "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "42256.0",
-    "availability_date": "Now",
-    "total_packages": 16,
-    "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:33"
+    "base_msrp": "34565",
+    "total_msrp": "38334.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 12,
+    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:54"
   },
   {
     "dealer": "10134",
-    "vin": "3TYCZ5AN9MT037310",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Army Green",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "44536.0",
-    "availability_date": "Now",
-    "total_packages": 16,
-    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:33"
-  },
-  {
-    "dealer": "32082",
-    "vin": "3TYDZ5BN0MT003484",
+    "vin": "3TMCZ5AN5MM431253",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdoffroad",
@@ -2309,15 +2249,15 @@
     "transmission": "6-Speed Automatic Transmission",
     "drivetrain": "4WD",
     "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Midnight Black Metallic",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "38140",
-    "total_msrp": "41423.9",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:33"
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Off-Road Leather Trim In Black",
+    "base_msrp": "37530",
+    "total_msrp": "49187.0",
+    "availability_date": "07/19/2021",
+    "total_packages": 14,
+    "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:54"
   },
   {
     "dealer": "32001",
@@ -2337,7 +2277,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], SR Convenience Package, LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:34"
+    "created_at": "2021-07-17 11:26:55"
   },
   {
     "dealer": "32001",
@@ -2357,7 +2297,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], SR5 Appearance Package (4-Cyl.), Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:34"
+    "created_at": "2021-07-17 11:26:55"
   },
   {
     "dealer": "32001",
@@ -2374,10 +2314,10 @@
     "interior": "TRD Sport Leather Trim In Black",
     "base_msrp": "37530",
     "total_msrp": "49946.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "07/19/2021",
     "total_packages": 14,
     "packages": "TRD Premium Sport Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:34"
+    "created_at": "2021-07-17 11:26:55"
   },
   {
     "dealer": "32015",
@@ -2397,27 +2337,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Trail with W Drop Step Package [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:34"
-  },
-  {
-    "dealer": "32142",
-    "vin": "3TYSZ5AN5MT043150",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Access Cab",
-    "bed": "6-ft. Bed",
-    "color": "Super White",
-    "interior": "SR Fabric In Cement Gray",
-    "base_msrp": "32125",
-    "total_msrp": "35586.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "SX Package, Predator Pro Step Bar [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:34"
+    "created_at": "2021-07-17 11:26:55"
   },
   {
     "dealer": "32133",
@@ -2437,27 +2357,27 @@
     "availability_date": "Now",
     "total_packages": 15,
     "packages": "16\" TRD Pro Alloys with All-Terrain Tire Upgrade [set_global_lio_disclaimer], Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:35"
+    "created_at": "2021-07-17 11:26:56"
   },
   {
-    "dealer": "32121",
-    "vin": "3TYSZ5AN1MT042772",
+    "dealer": "32133",
+    "vin": "3TMCZ5AN6MM431715",
     "year": "2021",
     "vehicle": "tacoma",
-    "model": "SR",
+    "model": "trdoffroad",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
     "drivetrain": "4WD",
-    "cab": "Access Cab",
-    "bed": "6-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "SR Fabric In Cement Gray",
-    "base_msrp": "32125",
-    "total_msrp": "34927.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:35"
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Off-Road Leather Trim In Black",
+    "base_msrp": "37530",
+    "total_msrp": "48095.0",
+    "availability_date": "07/20/2021",
+    "total_packages": 15,
+    "packages": "TRD Premium Off-Road Package (Double Cab A/T), 16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, Tailgate Power Lock [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:56"
   },
   {
     "dealer": "32097",
@@ -2477,27 +2397,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:36"
-  },
-  {
-    "dealer": "32145",
-    "vin": "5TFAZ5CN6MX110837",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "38047.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:36"
+    "created_at": "2021-07-17 11:26:56"
   },
   {
     "dealer": "32145",
@@ -2517,7 +2417,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "17\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], Predator Pro Step Bar [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:36"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32145",
@@ -2534,10 +2434,10 @@
     "interior": "TRD Off-Road Fabric In Cement/Black",
     "base_msrp": "37530",
     "total_msrp": "44092.0",
-    "availability_date": "07/21/2021",
+    "availability_date": "07/19/2021",
     "total_packages": 11,
     "packages": "XP Predator [set_global_lio_disclaimer], Technology Package, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:36"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32136",
@@ -2557,7 +2457,7 @@
     "availability_date": "07/20/2021",
     "total_packages": 12,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:36"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32152",
@@ -2577,7 +2477,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32152",
@@ -2597,7 +2497,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32152",
@@ -2617,7 +2517,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], Gloss Black \"Tacoma\" Tailgate Inserts [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD PRO Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:57"
   },
   {
     "dealer": "32110",
@@ -2637,7 +2537,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32110",
@@ -2657,7 +2557,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32106",
@@ -2677,7 +2577,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:37"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32096",
@@ -2697,67 +2597,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:38"
-  },
-  {
-    "dealer": "32096",
-    "vin": "5TFAZ5CN0MX112969",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37187.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:38"
-  },
-  {
-    "dealer": "32096",
-    "vin": "5TFAZ5CN3MX111797",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37187.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:38"
-  },
-  {
-    "dealer": "32096",
-    "vin": "5TFAZ5CN3MX111234",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "37187.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:38"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32096",
@@ -2777,27 +2617,67 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:38"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32096",
-    "vin": "5TFCZ5AN6MX278585",
+    "vin": "5TFAZ5CN0MX112969",
     "year": "2021",
     "vehicle": "tacoma",
-    "model": "trdoffroad",
+    "model": "trdsport",
     "enginge": "3.5L V6 Engine",
     "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
+    "drivetrain": "2WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
     "color": "Magnetic Gray Metallic",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "41897.0",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "37187.0",
     "availability_date": "Now",
-    "total_packages": 16,
-    "packages": "16\" All-Terrain Tire Upgrade [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:38"
+    "total_packages": 9,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:58"
+  },
+  {
+    "dealer": "32096",
+    "vin": "5TFAZ5CN3MX111234",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "37187.0",
+    "availability_date": "Now",
+    "total_packages": 9,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:58"
+  },
+  {
+    "dealer": "32096",
+    "vin": "5TFAZ5CN3MX111797",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "34565",
+    "total_msrp": "37187.0",
+    "availability_date": "Now",
+    "total_packages": 9,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32096",
@@ -2817,11 +2697,11 @@
     "availability_date": "Now",
     "total_packages": 4,
     "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:38"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32096",
-    "vin": "3TMHZ5BN7MM115728",
+    "vin": "3TYGZ5AN9MT040953",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "limited",
@@ -2829,15 +2709,15 @@
     "transmission": "6-Speed Automatic Transmission",
     "drivetrain": "4WD",
     "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Magnetic Gray Metallic",
+    "bed": "5-ft. Bed",
+    "color": "Cement",
     "interior": "Limited Leather Trim In Black",
-    "base_msrp": "42730",
-    "total_msrp": "44234.0",
+    "base_msrp": "42230",
+    "total_msrp": "46058.0",
     "availability_date": "Now",
-    "total_packages": 4,
-    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:38"
+    "total_packages": 10,
+    "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32028",
@@ -2857,7 +2737,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SX Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:38"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32028",
@@ -2877,7 +2757,7 @@
     "availability_date": "07/19/2021",
     "total_packages": 7,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:38"
+    "created_at": "2021-07-17 11:26:58"
   },
   {
     "dealer": "32126",
@@ -2897,7 +2777,7 @@
     "availability_date": "07/19/2021",
     "total_packages": 8,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:39"
+    "created_at": "2021-07-17 11:26:59"
   },
   {
     "dealer": "32126",
@@ -2917,7 +2797,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "XP Trail with Tread Running Board Package [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:39"
+    "created_at": "2021-07-17 11:26:59"
   },
   {
     "dealer": "32125",
@@ -2937,7 +2817,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "All Weather Floor Mats [set_global_lio_disclaimer], SR Convenience Package, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32125",
@@ -2957,7 +2837,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Color Keyed Rear Bumper, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32125",
@@ -2977,7 +2857,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32125",
@@ -2997,7 +2877,7 @@
     "availability_date": "Now",
     "total_packages": 15,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32125",
@@ -3017,7 +2897,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32125",
@@ -3034,30 +2914,10 @@
     "interior": "TRD Off-Road Fabric In Cement/Black",
     "base_msrp": "37530",
     "total_msrp": "44756.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "07/18/2021",
     "total_packages": 16,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Illumination Package (Interior & Exterior) [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Cargo Bed LED Lights [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:40"
-  },
-  {
-    "dealer": "32125",
-    "vin": "3TMCZ5AN1MM432447",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Voodoo Blue",
-    "interior": "TRD Off-Road Leather Trim In Black",
-    "base_msrp": "37530",
-    "total_msrp": "47461.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Dual USB Power Port Rear Seat Charge Station [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:40"
+    "created_at": "2021-07-17 11:27:00"
   },
   {
     "dealer": "32076",
@@ -3077,67 +2937,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "W Drop Step Running Board [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:41"
-  },
-  {
-    "dealer": "32130",
-    "vin": "3TYAX5GNXMT024571",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "2.7L 4-Cyl. Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Super White",
-    "interior": "SR Fabric In Cement Gray",
-    "base_msrp": "27230",
-    "total_msrp": "30024.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], SR Convenience Package, LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:41"
-  },
-  {
-    "dealer": "32130",
-    "vin": "3TYAX5GN5MT024686",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "2.7L 4-Cyl. Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "29080",
-    "total_msrp": "35165.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "XP Predator [set_global_lio_disclaimer], SR5 Appearance Package (4-Cyl.), All Weather Floor Mats [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:41"
-  },
-  {
-    "dealer": "32130",
-    "vin": "5TFAZ5CN0MX111935",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "34565",
-    "total_msrp": "38026.0",
-    "availability_date": "Now",
-    "total_packages": 13,
-    "packages": "Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:41"
+    "created_at": "2021-07-17 11:27:01"
   },
   {
     "dealer": "32130",
@@ -3157,7 +2957,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Tailgate Power Lock [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:41"
+    "created_at": "2021-07-17 11:27:01"
   },
   {
     "dealer": "32118",
@@ -3177,27 +2977,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:42"
-  },
-  {
-    "dealer": "32118",
-    "vin": "5TFCZ5AN4MX278245",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "39632.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "Carpet Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:42"
+    "created_at": "2021-07-17 11:27:02"
   },
   {
     "dealer": "32118",
@@ -3217,71 +2997,11 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Carpet Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2021-07-16 11:27:42"
+    "created_at": "2021-07-17 11:27:02"
   },
   {
     "dealer": "32148",
-    "vin": "5TFCZ5ANXMX278105",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "35555",
-    "total_msrp": "37708.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:43"
-  },
-  {
-    "dealer": "32148",
-    "vin": "5TFCZ5AN2MX277465",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "35555",
-    "total_msrp": "37708.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Extra Value Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Chrome Bumper, 16-In. Dark Gray Alloy Wheel",
-    "created_at": "2021-07-16 11:27:43"
-  },
-  {
-    "dealer": "32148",
-    "vin": "3TYCZ5AN8MT042112",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Super White",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "44072.0",
-    "availability_date": "Now",
-    "total_packages": 13,
-    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:43"
-  },
-  {
-    "dealer": "32113",
-    "vin": "3TMCZ5AN8MM432462",
+    "vin": "3TMCZ5AN1MM430925",
     "year": "2021",
     "vehicle": "tacoma",
     "model": "trdoffroad",
@@ -3290,14 +3010,14 @@
     "drivetrain": "4WD",
     "cab": "Double Cab",
     "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "color": "Super White",
+    "interior": "TRD Off-Road Leather Trim In Black",
     "base_msrp": "37530",
-    "total_msrp": "40805.0",
+    "total_msrp": "48973.0",
     "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:43"
+    "total_packages": 11,
+    "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], LED Headlights and Fog Lights, Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:27:03"
   },
   {
     "dealer": "32113",
@@ -3317,7 +3037,27 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, 50 State Emissions, Entune Audio Plus",
-    "created_at": "2021-07-16 11:27:43"
+    "created_at": "2021-07-17 11:27:03"
+  },
+  {
+    "dealer": "32113",
+    "vin": "3TMCZ5AN8MM432462",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "40805.0",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, 50 State Emissions, Entune Audio Plus",
+    "created_at": "2021-07-17 11:27:03"
   },
   {
     "dealer": "32113",
@@ -3337,7 +3077,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:43"
+    "created_at": "2021-07-17 11:27:03"
   },
   {
     "dealer": "32113",
@@ -3354,10 +3094,30 @@
     "interior": "TRD Sport Fabric In Cement/Black",
     "base_msrp": "37530",
     "total_msrp": "41198.0",
-    "availability_date": "07/20/2021",
+    "availability_date": "Now",
     "total_packages": 14,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2021-07-16 11:27:43"
+    "created_at": "2021-07-17 11:27:03"
+  },
+  {
+    "dealer": "32113",
+    "vin": "3TMCZ5ANXMM432270",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Voodoo Blue",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "43004.0",
+    "availability_date": "Now",
+    "total_packages": 12,
+    "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror, Chrome Bumper",
+    "created_at": "2021-07-17 11:27:03"
   },
   {
     "dealer": "32113",
@@ -3374,9 +3134,29 @@
     "interior": "TRD Off-Road Leather Trim In Black",
     "base_msrp": "37530",
     "total_msrp": "46243.0",
-    "availability_date": "07/19/2021",
+    "availability_date": "Now",
     "total_packages": 10,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), Technology Package, Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2021-07-16 11:27:43"
+    "created_at": "2021-07-17 11:27:03"
+  },
+  {
+    "dealer": "32141",
+    "vin": "5TFAZ5CN4MX112604",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "SR5 Fabric In Cement Gray",
+    "base_msrp": "32480",
+    "total_msrp": "34955.0",
+    "availability_date": "Now",
+    "total_packages": 6,
+    "packages": "All Weather Floor Mats [set_global_lio_disclaimer], Mudguards [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2021-07-17 11:27:03"
   }
 ]
