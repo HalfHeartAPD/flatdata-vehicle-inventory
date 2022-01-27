@@ -17,7 +17,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, 16-In. Black Alloy Wheel",
-    "created_at": "2022-01-26 11:28:12"
+    "created_at": "2022-01-27 11:26:40"
   },
   {
     "dealer": "10131",
@@ -37,7 +37,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-01-26 11:28:12"
+    "created_at": "2022-01-27 11:26:40"
   },
   {
     "dealer": "10132",
@@ -57,7 +57,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2022-01-26 11:28:12"
+    "created_at": "2022-01-27 11:26:41"
   },
   {
     "dealer": "32001",
@@ -77,7 +77,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-01-26 11:28:14"
+    "created_at": "2022-01-27 11:26:42"
   },
   {
     "dealer": "32001",
@@ -97,26 +97,6 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, Bed Step [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-01-26 11:28:14"
-  },
-  {
-    "dealer": "32015",
-    "vin": "3TYCZ5AN0MT035879",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "TRD Sport Fabric In Cement/Black",
-    "base_msrp": "37530",
-    "total_msrp": "39355.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, Power Color Turn Mirror",
-    "created_at": "2022-01-26 11:28:15"
+    "created_at": "2022-01-27 11:26:42"
   }
 ]
