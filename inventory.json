@@ -17,7 +17,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, 16-In. Black Alloy Wheel",
-    "created_at": "2022-02-05 11:24:48"
+    "created_at": "2022-02-06 11:26:03"
   },
   {
     "dealer": "10131",
@@ -37,7 +37,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-02-05 11:24:48"
+    "created_at": "2022-02-06 11:26:03"
   },
   {
     "dealer": "10132",
@@ -57,26 +57,6 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Predator Pro Step Bar [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Black Exhaust Tip [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror, Chrome Bumper",
-    "created_at": "2022-02-05 11:24:49"
-  },
-  {
-    "dealer": "32001",
-    "vin": "3TMCZ5AN5MM410709",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "TRD Off-Road Leather Trim In Black",
-    "base_msrp": "37530",
-    "total_msrp": "49448.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TRD Premium Off-Road Package (Double Cab A/T), XP Predator [set_global_lio_disclaimer], Technology Package, TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], LED Headlights and Fog Lights, Bed Step [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-02-05 11:24:52"
+    "created_at": "2022-02-06 11:26:04"
   }
 ]
