@@ -17,7 +17,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2022-02-21 11:27:55"
+    "created_at": "2022-02-22 11:27:50"
   },
   {
     "dealer": "10131",
@@ -37,6 +37,26 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Tread Running Board [set_global_lio_disclaimer], TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package with Two USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor Plus [set_global_lio_disclaimer], 50 State Emissions, 16-In. Black Alloy Wheel",
-    "created_at": "2022-02-21 11:27:55"
+    "created_at": "2022-02-22 11:27:50"
+  },
+  {
+    "dealer": "10133",
+    "vin": "3TYSZ5AN1MT035403",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Access Cab",
+    "bed": "6-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "SR5 Fabric In Cement Gray",
+    "base_msrp": "34675",
+    "total_msrp": "38367.5",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "TOYOGUARD(R) Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable & Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SR5 Package, PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, 16-In. Dark Gray Alloy Wheel",
+    "created_at": "2022-02-22 11:27:51"
   }
 ]
